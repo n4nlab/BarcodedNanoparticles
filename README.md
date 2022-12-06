@@ -13,6 +13,12 @@ This folder contains the (raw and preprocessed) datasets used to train the ML cl
 
 *Detailed description of the different datasets and its naming.*
 
+## Models
+
+This folder contains the models obtained from the different datasets and methods. Including intermediate models and some extra that weren't used in the final version of the paper.
+
+*Detailed description of the different models and its naming.*
+
 ## Notes
 
 If you have any question feel free to open an *Issue* or email the main authors:
