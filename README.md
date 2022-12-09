@@ -19,6 +19,14 @@ This folder contains the models obtained from the different datasets and methods
 
 *Detailed description of the different models and its naming.*
 
+## Installation
+
+*export conda environment*
+[You can find more information in ](https://pycaret.org/ "Pycaret's Homepage") 
+*Pre-process files (refer to script in repository)*
+*Use dataset files*
+*Use of the model creation script (refer to script in repository)*
+
 ## Notes
 
 If you have any question feel free to open an *Issue* or email the main authors:
