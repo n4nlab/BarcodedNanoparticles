@@ -26,6 +26,7 @@ Contains:
 ### Models
 
 This folder contains the final 10 classes model, not balanced, used in the manuscript for further analysis.
+Also contains the MATLAB figure for the 26 barcodes PCA.
 
 ## Installation
 
