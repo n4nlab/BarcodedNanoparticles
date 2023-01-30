@@ -36,7 +36,7 @@ The easiest is to import the [conda environment](https://docs.conda.io/projects/
  2. Activate conda environment 
    ```conda activate pycaret_env```
  3. Open Jupyter Notebook
-   *(In environment)* ```Jupyter notebook```
+   *(In environment)* ```jupyter notebook```
 
 Now you are all ready to run the script from the browser notebook!
 
