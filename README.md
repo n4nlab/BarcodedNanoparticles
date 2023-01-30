@@ -30,9 +30,15 @@ Also contains the MATLAB figure for the 26 barcodes PCA.
 
 ## Installation
 
-The easiest is to import the [conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html#) the authors used for this paper. You can find it in (refer to repository dir).
- 1. *export conda environment* contains [Pycaret](https://pycaret.org/ "Pycaret's Homepage") --> add comands in markdown
+The easiest is to import the [conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html#) the authors used for this paper. You can find it in this repository as ```pycaret_env.yml```. From a cmd terminal, go to your desired file location and type the following commands:
+ 1. Create conda environment from file
+   ```conda env create -f pycaret_env.yml```
+ 2. Activate conda environment 
+   ```conda activate pycaret_env```
+ 3. Open Jupyter Notebook
+   *(In environment)* ```Jupyter notebook```
 
+Now you are all ready to run the script from the browser notebook!
 
 ## Notes
 
