@@ -45,3 +45,12 @@ Now you are all ready to run the script from the browser notebook!
 If you have any question feel free to open an *Issue* or email the main authors:
   * Ana Ortiz Pérez (a.ortiz.perez@tue.nl)
   * Cristina Izquierdo Lozano (c.izquierdo.lozano@tue.nl)
+
+## LICENSE
+
+
+![image](https://user-images.githubusercontent.com/120185593/216958136-023ffc4b-5143-4c21-9da1-26aa8f3a7a5f.png)
+
+**Attribution-NonCommercial-ShareAlike**
+
+*CC BY-NC-SA*
