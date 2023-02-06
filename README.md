@@ -48,9 +48,4 @@ If you have any question feel free to open an *Issue* or email the main authors:
 
 ## LICENSE
 
-
-![image](https://user-images.githubusercontent.com/120185593/216958136-023ffc4b-5143-4c21-9da1-26aa8f3a7a5f.png)
-
-**Attribution-NonCommercial-ShareAlike**
-
-*CC BY-NC-SA*
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
