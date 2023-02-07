@@ -1,5 +1,5 @@
 # Barcoded Nanoparticles
-Hello! Welcome to the Barcoded Nanoparticles repository, here you can find the codes and datasets described in the manuscript ***"Identification of fluorescently-barcoded nanoparticles using machine learning"*** *[Paper](paste here link when published)*.
+Hello! Welcome to the Barcoded Nanoparticles repository, here you can find the codes and datasets described in the manuscript ***"Identification of fluorescently-barcoded nanoparticles using machine learning"***.
 
 ## Content
 ### Code
