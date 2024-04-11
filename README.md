@@ -20,8 +20,7 @@ Contains:
 * *dataset.csv* --> Full 26-classes dataset
 * *unseen_data_model10.csv* --> 10-classes dataset, unseen by the model (to test).
 * *mixture\*.csv* --> Virtual class mixtures datasets, described in the manuscript.
-* sizeComparison:
-⋅⋅* 10 classes datasets with different sample sizes, cut in a stratified way, not balanced.
+* sizeComparison: 10-class datasets with different sample sizes, cut in a stratified way, not balanced.
 
 ### Models
 
